@@ -275,6 +275,14 @@ Through this project, I improved my skills in:
 
 ---
 
+## 📈 Analysis 
+
+screenshots here:--
+
+<img width="1141" height="634" alt="Screenshot 2026-05-27 212139" src="https://github.com/user-attachments/assets/30188001-f41d-4d93-87e1-0cb5fac1cbc5" />
+
+---
+
  # 🤝 Contributing
 Contributions, suggestions, and feedback are welcome.
 
@@ -282,3 +290,7 @@ Contributions, suggestions, and feedback are welcome.
 
 # ⭐ Support
 If you found this project helpful, please give it a ⭐ on GitHub.
+
+---
+
+
