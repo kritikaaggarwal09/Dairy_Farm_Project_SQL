@@ -13,6 +13,9 @@ The project focuses on transforming raw dairy farm business data into meaningful
 
 ## 🎯 Project Objectives
 - Improve dairy farm operational efficiency
+- Analyze dairy product sales and revenue trends
+- Track customer purchasing patterns and buying behavior
+- Monitor inventory levels and stock availability
 - Generate meaningful business insights
 - Practice advanced SQL technique
 
@@ -54,30 +57,6 @@ This interactive SQL report includes the following business insights:
 # 🛠️ Technologies Used
 - SQL
 - MySQL / SQL Server
-
----
-
-# 📂 Project Structure
-
-```bash
-Dairy_Farm_Project/
-│
-├── Database/
-│   ├── Tables.sql
-│   ├── Insert_Data.sql
-│   └── Queries.sql
-│
-├── Reports/
-│   ├── Revenue_Analysis.sql
-│   ├── Inventory_Report.sql
-│   ├── Customer_Analysis.sql
-│   └── Sales_Channel_Report.sql
-│
-├── Dashboard/
-│   └── Interactive_SQL_Report.pbix
-│
-└── README.md
-```
 
 ---
 
